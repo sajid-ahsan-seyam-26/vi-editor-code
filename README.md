@@ -1,2 +1,2 @@
 # vi-editor-code
-.
+..
